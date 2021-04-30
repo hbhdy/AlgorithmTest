@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Test20210430_2.cs" />
+    <Compile Include="Test20210430_4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
