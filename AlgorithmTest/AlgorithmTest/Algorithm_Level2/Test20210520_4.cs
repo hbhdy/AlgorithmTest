@@ -14,6 +14,8 @@ namespace AlgorithmTest.Algorithm_Level2
         // 유클리드 호제법(Euclidean Algorithm)
         public static int solution(int[] arr)
         {
+            Array.Sort(arr);
+
             // 최대공약수 GCD(Greatest Common Divisor)
             int gcd;
             // 최소공배수 LCM(Least Common Multiple)
@@ -54,14 +56,14 @@ namespace AlgorithmTest.Algorithm_Level2
             if (gcd == 0)
                 return 0;
 
-            int result = (bigNum * smallNum) / gcd;
+            int result = (bigNum * smallNum) / GCD(bigNum,smallNum);
 
             return result;
         }
 
         public static void Main(string[] args)
         {
-            int[] arr = { 2, 6, 8, 14 };
+            int[] arr = { 14, 2, 7 };
 
             solution(arr);
 
