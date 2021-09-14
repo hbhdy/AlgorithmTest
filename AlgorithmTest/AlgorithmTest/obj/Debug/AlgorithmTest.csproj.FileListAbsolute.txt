@@ -1,7 +1,0 @@
-C:\Users\shtke\Documents\AlgorithmTest\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.csprojAssemblyReference.cache
-C:\Users\shtke\Documents\AlgorithmTest\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.csproj.CoreCompileInputs.cache
-C:\Users\shtke\Documents\AlgorithmTest\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.exe.config
-C:\Users\shtke\Documents\AlgorithmTest\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.exe
-C:\Users\shtke\Documents\AlgorithmTest\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.pdb
-C:\Users\shtke\Documents\AlgorithmTest\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.exe
-C:\Users\shtke\Documents\AlgorithmTest\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.pdb

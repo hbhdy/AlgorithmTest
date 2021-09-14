@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 // 프로그래머스 코딩 테스트 연습 Level_2
-// 소수 찾기
+// 가장 큰 수
 
 namespace AlgorithmTest.Algorithm_Level2
 {

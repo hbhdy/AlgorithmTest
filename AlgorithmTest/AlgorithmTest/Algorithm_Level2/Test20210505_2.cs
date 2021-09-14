@@ -92,7 +92,7 @@ namespace AlgorithmTest.Algorithm_Level2
 
         public static void Main(string[] args)
         {
-            string str = "17";
+            string str = "011";
 
             solution(str);
 

@@ -40,7 +40,7 @@ namespace AlgorithmTest.Algorithm_Level2
 
             string answer = builder.ToString();
             return answer;
-        }
+        } 
 
         public static void Main(string[] args)
         {
